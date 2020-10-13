@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Triqui UNAL</string>
+    <string name="title">TIC TAC TOE Mateo</string>
+    <string name="difficulty_easy">Facil</string>
+    <string name="difficulty_harder">Dificil</string>
+    <string name="difficulty_expert">Experto</string>
+    <string name="quit_question">Estas seguro que deseas salir?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="result_human_wins">Humano gana</string>
+</resources>
